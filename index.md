@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [link to another page](page1.md)
+
 [and another page](page2.md)
 
 You can use the [editor on GitHub](https://github.com/nosivads/automl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
